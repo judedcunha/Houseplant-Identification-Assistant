@@ -1,4 +1,4 @@
-# Common Houseplant Identification Assistant
+# PlantVision: Houseplant Identification System
 
 This project implements a machine learning-based application that helps users identify common houseplants from images and provides basic care recommendations. The application uses computer vision techniques to classify houseplant images and displays relevant care information for the identified plants.
 
