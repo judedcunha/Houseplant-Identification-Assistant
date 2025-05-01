@@ -1,0 +1,222 @@
+{
+  "Monstera deliciosa": {
+    "common_name": "Swiss Cheese Plant",
+    "light": "Bright indirect light. Avoid direct sunlight which can burn the leaves.",
+    "water": "Allow top 2-3 inches of soil to dry out between waterings. Water less in winter.",
+    "soil": "Well-draining potting mix with some peat and perlite.",
+    "temperature": "65-85°F (18-29°C). Keep away from cold drafts.",
+    "humidity": "Prefers moderate to high humidity. Regular misting is beneficial.",
+    "fertilizer": "Feed monthly during growing season with balanced houseplant fertilizer.",
+    "common_issues": "Brown leaf tips (low humidity), yellow leaves (overwatering), lack of fenestration (insufficient light).",
+    "toxicity": "Toxic to pets if ingested. Contains calcium oxalate crystals."
+  },
+  "Ficus lyrata": {
+    "common_name": "Fiddle Leaf Fig",
+    "light": "Bright indirect light. Some direct morning sun is beneficial.",
+    "water": "Water when top inch of soil is dry. Ensure thorough drainage.",
+    "soil": "Well-draining potting mix with peat and perlite.",
+    "temperature": "60-75°F (15-24°C). Avoid temperature fluctuations.",
+    "humidity": "Moderate humidity, around 40-60%.",
+    "fertilizer": "Feed monthly in spring and summer with diluted houseplant fertilizer.",
+    "common_issues": "Brown spots (overwatering or bacterial infection), leaf drop (stress from relocation or temperature changes).",
+    "toxicity": "Mildly toxic to pets and humans if ingested."
+  },
+  "Sansevieria trifasciata": {
+    "common_name": "Snake Plant",
+    "light": "Adaptable to various light conditions from low light to bright indirect light.",
+    "water": "Allow soil to dry completely between waterings. Water sparingly in winter.",
+    "soil": "Well-draining, sandy soil mix.",
+    "temperature": "55-85°F (13-29°C). Can tolerate temperature fluctuations.",
+    "humidity": "Adaptable to various humidity levels, including dry air.",
+    "fertilizer": "Feed sparingly with cactus fertilizer during growing season.",
+    "common_issues": "Root rot (overwatering), brown tips (fluoride in water).",
+    "toxicity": "Mildly toxic to pets if ingested."
+  },
+  "Chlorophytum comosum": {
+    "common_name": "Spider Plant",
+    "light": "Bright indirect light. Can tolerate lower light conditions.",
+    "water": "Keep soil moderately moist. Allow top to dry slightly between waterings.",
+    "soil": "Well-draining potting mix.",
+    "temperature": "60-75°F (15-24°C).",
+    "humidity": "Prefers moderate humidity but tolerates dry air.",
+    "fertilizer": "Feed monthly during growing season with balanced fertilizer.",
+    "common_issues": "Brown tips (fluoride in water, dry air), pale leaves (too much light).",
+    "toxicity": "Non-toxic to pets and humans."
+  },
+  "Epipremnum aureum": {
+    "common_name": "Pothos",
+    "light": "Adaptable to various light conditions. Prefers moderate indirect light.",
+    "water": "Allow top inch of soil to dry between waterings.",
+    "soil": "Standard potting mix with good drainage.",
+    "temperature": "65-85°F (18-29°C).",
+    "humidity": "Adaptable to normal household humidity.",
+    "fertilizer": "Feed monthly with balanced houseplant fertilizer.",
+    "common_issues": "Yellow leaves (overwatering), leggy growth (insufficient light).",
+    "toxicity": "Toxic to pets if ingested. Contains calcium oxalate crystals."
+  },
+  "Spathiphyllum wallisii": {
+    "common_name": "Peace Lily",
+    "light": "Low to moderate indirect light. Avoid direct sunlight.",
+    "water": "Water when top of soil feels dry or when leaves begin to droop.",
+    "soil": "Rich, loose potting soil with good drainage.",
+    "temperature": "65-80°F (18-27°C). Avoid cold drafts.",
+    "humidity": "Prefers high humidity. Regular misting beneficial.",
+    "fertilizer": "Feed every 6-8 weeks with balanced houseplant fertilizer.",
+    "common_issues": "Brown leaf tips (low humidity), yellow leaves (overwatering).",
+    "toxicity": "Toxic to pets if ingested. Contains calcium oxalate crystals."
+  },
+  "Zamioculcas zamiifolia": {
+    "common_name": "ZZ Plant",
+    "light": "Adaptable from low light to bright indirect light.",
+    "water": "Allow soil to dry completely between waterings. Drought tolerant.",
+    "soil": "Well-draining potting mix.",
+    "temperature": "65-75°F (18-24°C).",
+    "humidity": "Adaptable to various humidity levels.",
+    "fertilizer": "Feed sparingly, 2-3 times per year with diluted fertilizer.",
+    "common_issues": "Yellow leaves (overwatering), root rot (poor drainage).",
+    "toxicity": "Toxic if ingested. Contains calcium oxalate crystals."
+  },
+  "Dracaena marginata": {
+    "common_name": "Dragon Tree",
+    "light": "Bright indirect light. Can tolerate some direct sun.",
+    "water": "Allow top inch of soil to dry between waterings.",
+    "soil": "Well-draining potting mix.",
+    "temperature": "65-80°F (18-27°C). Avoid cold drafts.",
+    "humidity": "Adaptable to normal household humidity.",
+    "fertilizer": "Feed monthly during growing season with balanced fertilizer.",
+    "common_issues": "Brown leaf tips (dry air, fluoride in water), yellow leaves (overwatering).",
+    "toxicity": "Toxic to pets if ingested."
+  },
+  "Calathea makoyana": {
+    "common_name": "Peacock Plant",
+    "light": "Medium to low indirect light. Avoid direct sunlight.",
+    "water": "Keep soil consistently moist but not soggy.",
+    "soil": "Rich, well-draining potting mix that retains some moisture.",
+    "temperature": "65-75°F (18-24°C). Avoid temperature fluctuations.",
+    "humidity": "Requires high humidity. Regular misting or humidifier recommended.",
+    "fertilizer": "Feed monthly during growing season with diluted fertilizer.",
+    "common_issues": "Curling leaves (low humidity), brown edges (dry air, tap water).",
+    "toxicity": "Non-toxic to pets and humans."
+  },
+  "Pilea peperomioides": {
+    "common_name": "Chinese Money Plant",
+    "light": "Bright indirect light. Avoid harsh direct sunlight.",
+    "water": "Allow top inch of soil to dry between waterings.",
+    "soil": "Well-draining potting mix.",
+    "temperature": "65-75°F (18-24°C).",
+    "humidity": "Adaptable to normal household humidity.",
+    "fertilizer": "Feed monthly during growing season with diluted fertilizer.",
+    "common_issues": "Yellowing leaves (overwatering), leggy growth (insufficient light).",
+    "toxicity": "Non-toxic to pets and humans."
+  },
+  "Philodendron bipinnatifidum": {
+    "common_name": "Split-leaf Philodendron",
+    "light": "Bright indirect light. Can tolerate some shade.",
+    "water": "Allow top inch of soil to dry between waterings.",
+    "soil": "Rich, well-draining potting mix.",
+    "temperature": "65-80°F (18-27°C). Avoid temperatures below 55°F (13°C).",
+    "humidity": "Prefers moderate to high humidity.",
+    "fertilizer": "Feed monthly during growing season with balanced fertilizer.",
+    "common_issues": "Yellow leaves (overwatering), lack of fenestration (insufficient light).",
+    "toxicity": "Toxic to pets if ingested. Contains calcium oxalate crystals."
+  },
+  "Aloe vera": {
+    "common_name": "Aloe Vera",
+    "light": "Bright indirect light or light shade. Can tolerate some direct sun.",
+    "water": "Allow soil to dry completely between waterings. Water sparingly in winter.",
+    "soil": "Well-draining succulent or cactus mix.",
+    "temperature": "55-80°F (13-27°C). Avoid frost.",
+    "humidity": "Prefers dry air. Does not require additional humidity.",
+    "fertilizer": "Feed sparingly during growing season with cactus fertilizer.",
+    "common_issues": "Soft, mushy leaves (overwatering), brown tips (sunburn).",
+    "toxicity": "Non-toxic for external use, but not for consumption except the inner gel."
+  },
+  "Ficus elastica": {
+    "common_name": "Rubber Plant",
+    "light": "Bright indirect light. Can tolerate some direct morning sun.",
+    "water": "Allow top few inches of soil to dry between waterings.",
+    "soil": "Well-draining potting mix.",
+    "temperature": "65-78°F (18-26°C). Avoid drafts and sudden temperature changes.",
+    "humidity": "Moderate humidity. Can tolerate dry air.",
+    "fertilizer": "Feed monthly during growing season with balanced fertilizer.",
+    "common_issues": "Leaf drop (stress from temperature changes), yellow leaves (overwatering).",
+    "toxicity": "Mildly toxic if ingested. Sap can cause skin irritation."
+  },
+  "Maranta leuconeura": {
+    "common_name": "Prayer Plant",
+    "light": "Moderate to low indirect light. Avoid direct sunlight.",
+    "water": "Keep soil consistently moist but not soggy.",
+    "soil": "Rich, well-draining potting mix that retains some moisture.",
+    "temperature": "65-75°F (18-24°C). Avoid temperatures below 60°F (15°C).",
+    "humidity": "Requires high humidity. Regular misting or humidifier recommended.",
+    "fertilizer": "Feed monthly during growing season with diluted fertilizer.",
+    "common_issues": "Curling leaves (low humidity), brown leaf edges (dry air, tap water).",
+    "toxicity": "Non-toxic to pets and humans."
+  },
+  "Aglaonema commutatum": {
+    "common_name": "Chinese Evergreen",
+    "light": "Low to moderate indirect light. Variegated varieties need more light.",
+    "water": "Allow top inch of soil to dry between waterings.",
+    "soil": "Well-draining potting mix.",
+    "temperature": "65-75°F (18-24°C). Avoid temperatures below 60°F (15°C).",
+    "humidity": "Prefers moderate to high humidity.",
+    "fertilizer": "Feed every 2-3 months with diluted fertilizer.",
+    "common_issues": "Yellow leaves (overwatering), brown leaf tips (low humidity).",
+    "toxicity": "Toxic to pets if ingested. Contains calcium oxalate crystals."
+  },
+  "Peperomia obtusifolia": {
+    "common_name": "Baby Rubber Plant",
+    "light": "Moderate to bright indirect light. Avoid direct sunlight.",
+    "water": "Allow soil to dry between waterings. Susceptible to overwatering.",
+    "soil": "Well-draining potting mix with perlite or sand.",
+    "temperature": "65-75°F (18-24°C). Avoid cold drafts.",
+    "humidity": "Prefers moderate humidity but can tolerate dry air.",
+    "fertilizer": "Feed monthly during growing season with diluted fertilizer.",
+    "common_issues": "Wilting (underwatering), mushy stems (overwatering).",
+    "toxicity": "Non-toxic to pets and humans."
+  },
+  "Anthurium andraeanum": {
+    "common_name": "Flamingo Flower",
+    "light": "Bright indirect light. Avoid direct sunlight.",
+    "water": "Keep soil consistently moist but not soggy.",
+    "soil": "Well-draining potting mix rich in organic matter.",
+    "temperature": "65-80°F (18-27°C). Avoid temperatures below 60°F (15°C).",
+    "humidity": "Requires high humidity. Regular misting or humidifier recommended.",
+    "fertilizer": "Feed every 2-3 months with phosphorus-rich fertilizer.",
+    "common_issues": "Browning leaves (low humidity), yellowing leaves (overwatering).",
+    "toxicity": "Toxic to pets if ingested. Contains calcium oxalate crystals."
+  },
+  "Schlumbergera bridgesii": {
+    "common_name": "Christmas Cactus",
+    "light": "Bright indirect light. Some morning sun is beneficial.",
+    "water": "Keep soil slightly moist during growing season, drier during dormancy.",
+    "soil": "Well-draining potting mix with sand or perlite.",
+    "temperature": "65-70°F (18-21°C) during growing season, cooler during bud formation.",
+    "humidity": "Prefers moderate humidity.",
+    "fertilizer": "Feed monthly during growing season with balanced fertilizer.",
+    "common_issues": "Dropping buds (temperature fluctuations, relocation), wilting (underwatering).",
+    "toxicity": "Non-toxic to pets and humans."
+  },
+  "Crassula ovata": {
+    "common_name": "Jade Plant",
+    "light": "Bright indirect light with some direct sun. South-facing window ideal.",
+    "water": "Allow soil to dry completely between waterings. Water less in winter.",
+    "soil": "Well-draining cactus or succulent mix.",
+    "temperature": "65-75°F (18-24°C) during growing season, slightly cooler in winter.",
+    "humidity": "Prefers dry air. No additional humidity needed.",
+    "fertilizer": "Feed sparingly during growing season with diluted cactus fertilizer.",
+    "common_issues": "Wrinkled leaves (underwatering), leaf drop (overwatering).",
+    "toxicity": "Toxic to pets if ingested."
+  },
+  "Aspidistra elatior": {
+    "common_name": "Cast Iron Plant",
+    "light": "Low to moderate indirect light. Tolerates deep shade.",
+    "water": "Allow top few inches of soil to dry between waterings.",
+    "soil": "Well-draining potting mix rich in organic matter.",
+    "temperature": "45-85°F (7-29°C). Very tolerant of temperature fluctuations.",
+    "humidity": "Adaptable to various humidity levels.",
+    "fertilizer": "Feed 2-3 times per year with balanced fertilizer.",
+    "common_issues": "Brown leaf tips (excessive fertilizer), pale leaves (too much light).",
+    "toxicity": "Non-toxic to pets and humans."
+  }
+}
