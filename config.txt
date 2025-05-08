@@ -1,0 +1,11 @@
+python -m ipykernel install --user --name hpi2 --display-name "Python (GPU2)"
+
+
+conda install -y pytorch torchvision torchaudio nvidia::cuda-toolkit -c pytorch
+
+
+
+
+
+
+conda env config vars set $HF_HOME=E:\Z2\Programs\HuggingFaceHome
